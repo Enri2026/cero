@@ -834,3 +834,8 @@ main {
     filter: var(--color-iconos-primarios);
   }
 }
+@media (min-width: 1200px) {
+  body {
+    zoom: 1.3; 
+  }
+}
